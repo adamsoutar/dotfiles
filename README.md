@@ -7,6 +7,10 @@ Being a `.zshrc`, these shortcuts, env vars, etc., are intended for ZSH.
 
 ## features:
 
+### alias atom=atom-nightly
+
+I use Atom Nightly in place of Atom to try out new features quickly, but couldn't teach my brain not to type `atom .`
+
 ### export EDITOR=nano
 
 Stops `git` opening commit messages in `vi`.
@@ -27,7 +31,7 @@ Mapped to `~/Projects`, for quickly `cd`ing.
 
 Who wouldn't want an instant command to start DOOM?
 
-I actually use this far more than you might expect.
+I actually use this far more than I'd like to admit.
 
 ### nvm
 
