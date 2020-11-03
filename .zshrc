@@ -1,6 +1,7 @@
 export EDITOR=nano
 export PS1="%B%F{green}%2~%b%f %# "
 
+alias atom=atom-nightly
 alias l="ls -al"
 
 function p () {
