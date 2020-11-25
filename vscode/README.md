@@ -8,7 +8,7 @@ For these special occasions, I have VS Code set up be as close as possible to ju
 
 ![](./screenshot2.png)
 
-Unfortunately, this isn't 100% perfect (imo a better option I'm looking into is contributing to improve Atom's abysmal "TypeScripReact" grammar instead).
+Unfortunately, this isn't 100% perfect (imo a better option I'm looking into is contributing to improve Atom's abysmal "TypeScriptReact" grammar instead).
 
 ### Included changes
 
