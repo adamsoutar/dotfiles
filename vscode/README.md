@@ -10,7 +10,7 @@ For these special occasions, I have VS Code set up be as close as possible to ju
 
 Unfortunately, this isn't 100% perfect (imo a better option I'm looking into is contributing to improve Atom's abysmal "TypeScripReact" grammar instead).
 
-## Included changes
+### Included changes
 
  - Moving the enormous "activity bar" away to the bottom
  - Hiding the fat rainbow-marked editor scrollbars
