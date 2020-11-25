@@ -1,0 +1,44 @@
+{
+  "workbench.colorTheme": "Atom One Dark",
+  "workbench.iconTheme": "atom-icons",
+  "editor.fontSize": 16,
+  "editor.minimap.enabled": false,
+  "todohighlight.keywords": [
+    {
+      "text": "TODO:",
+      "color": "rgb(211, 46, 95)",
+      "backgroundColor": "transparent",
+      "overviewRulerColor": "rgb(211, 46, 95)"
+    }
+  ],
+  "workbench.editor.tabCloseButton": "left",
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "alt",
+  "explorer.compactFolders": false,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "workbench.activityBar.visible": true,
+  "breadcrumbs.enabled": false,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.rulers": [80],
+  "git.enableSmartCommit": true,
+  "window.zoomLevel": 0,
+  "editor.glyphMargin": false,
+  "editor.folding": false,
+  "editor.overviewRulerBorder": false,
+  "editor.renderIndentGuides": false,
+  "editor.matchBrackets": "near",
+  "customizeUI.activityBar": "bottom",
+  "customizeUI.listRowHeight": 20,
+  "customizeUI.titleBar": "inline",
+  "customizeUI.stylesheet": {
+    ".editor-actions": "display: none !important;",
+    ".title-label": "display: none !important;"
+  },
+  "window.titleBarStyle": "native",
+  "editor.lightbulb.enabled": false
+}
