@@ -35,3 +35,9 @@ Unfortunately, this isn't 100% perfect (imo a better option I'm looking into is 
  - Atom One Dark Theme
  - Customize UI
  - Duplicate Action
+
+## Note
+
+On macOS 13 Ventura, something changed which breaks Monkey Patch's ability to mess with VS Code's files.
+
+Follow [this issue](https://github.com/iocave/monkey-patch/issues/53) to fix it.
